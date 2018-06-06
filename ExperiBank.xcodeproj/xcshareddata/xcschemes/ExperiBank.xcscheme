@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0450"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -17,6 +17,20 @@
                BlueprintIdentifier = "13E5DDD41691136C00C5BE0D"
                BuildableName = "ExperiBank.app"
                BlueprintName = "ExperiBank"
+               ReferencedContainer = "container:ExperiBank.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4DA113BC20C663570026A23F"
+               BuildableName = "ExperiBankUITests.xctest"
+               BlueprintName = "ExperiBankUITests"
                ReferencedContainer = "container:ExperiBank.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
